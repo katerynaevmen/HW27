@@ -50,7 +50,7 @@ ul {
 }
 
 .menu-link {
-    font-size: 50px;
+    font-size: 30px;
     color: white;
 }
 
@@ -60,7 +60,7 @@ ul {
 
 .menu-title {
     color: white;
-    font-size: 50px;
+    font-size: 30px;
     transform: rotate(-270deg);
     width: 200px;
     position: absolute;
